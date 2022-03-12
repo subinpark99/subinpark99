@@ -1,4 +1,4 @@
-- ![header](https://capsule-render.vercel.app/api?type=wavet&color=ffc0cb&height=300&section=header&text=SUBIN%20&fontSize=90)
+- ![header](https://capsule-render.vercel.app/api?type=wavet&color=auto&height=300&section=header&text=SUBIN%20&fontSize=90)
 - 
 - 👋 Hi, I’m @subinpark99
 - 👀 I’m interested in ...
